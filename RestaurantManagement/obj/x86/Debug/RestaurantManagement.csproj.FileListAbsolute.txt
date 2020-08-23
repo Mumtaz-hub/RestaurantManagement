@@ -1,0 +1,35 @@
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Base.resources
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Properties.Resources.resources
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.csproj.GenerateResource.Cache
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.exe
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.pdb
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.FrmLogin.resources
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.ItemMaster.resources
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.frmBilling.resources
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.ItemCategory.resources
+D:\Mumtaz .Net Module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Transfer.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.exe
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.pdb
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Base.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.frmBilling.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.FrmLogin.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.ItemCategory.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.ItemMaster.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Properties.Resources.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Transfer.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Report.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.ViewReport.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.Customer.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.BackupRestore.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.frmUserSettings.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.MenuSettings.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RestaurantManagement.frmBillPrint.resources
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RdlCompile.cache
+D:\Mumtaz\.net module\RestaurantManagement\RestaurantManagement\obj\x86\Debug\RdlCompile.compiled
